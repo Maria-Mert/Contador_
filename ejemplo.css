@@ -1,0 +1,26 @@
+@import url('https://fonts.cdnfonts.com/css/zilla-slab');
+  
+.box {
+    
+     font-family: 'Zilla Slab', sans-serif;
+}
+article{
+    margin: 10vh;
+    padding: 10vh;
+    }
+
+h1{
+    font-size:5vw;
+}    
+
+.numero {
+    font-size: 8vw;
+ }
+ 
+
+ button {
+    font-size: 2vw;
+    padding: 3% 2%;        
+    margin: 5px;
+    cursor: pointer;               
+}       
